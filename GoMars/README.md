@@ -15,6 +15,6 @@ Flutter Learning Project 1 -- Go Mars
 
 ## ScreenShots
 
-![Go Mars Screenshot](./assets/images/go_mars.png)
+<img src="./assets/images/go_mars.png" alt="Go Mars Screenshot" width="300" height="500">
 
 
