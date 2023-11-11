@@ -1,6 +1,6 @@
 # go_mars
 
-Flutter Learning Project 1 -- Go Mars
+1st Flutter learning project -- Go Mars
 
 ## Description and outcomes
 
