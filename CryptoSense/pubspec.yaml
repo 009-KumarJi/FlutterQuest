@@ -1,0 +1,26 @@
+name: crypto_sense
+description: 4th Flutter Learning Project. App to fetch crypto-currency's information.
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.5 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  dio: ^5.3.3
+  get_it: ^7.6.4
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/config/
