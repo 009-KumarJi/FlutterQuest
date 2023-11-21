@@ -4,7 +4,7 @@
 
 ## Description
 
-- CryptoSense will use REST API to process data. 
+- CryptoSense will use REST API to process data.
 - Dio: A powerful HTTP networking package.
   - supports Interceptors, 
   - Aborting and canceling a request, 
