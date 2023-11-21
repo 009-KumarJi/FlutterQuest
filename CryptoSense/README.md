@@ -24,8 +24,8 @@
 - [x] Fetching data from API
 - [x] Using Dio, Get_it package
 - [x] Page Navigation and passing data between pages
-- [x] Using FutureBuilder
+- [x] Web Requests, Futures, Navigation, Importing Assets
 
 ## Working
 
-[![Working](assets/working/working.gif)]
+![Working](assets/working/working.gif)
