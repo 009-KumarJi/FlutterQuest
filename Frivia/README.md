@@ -23,4 +23,4 @@
 
 ## Working
 
-![Working](/assets/working/working.gif)
+![Working](assets/working/working.gif)
