@@ -1,0 +1,32 @@
+name: frivia
+description: 5th Flutter Learning Project. App to play true-false game.
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.5 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  dio: ^5.3.3
+  get_it: ^7.6.4
+  provider: ^6.1.1
+  html_unescape: ^2.0.0
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+
+flutter:
+  uses-material-design: true
+  fonts:
+    - family: BubblegumSans
+      fonts:
+        - asset: assets/fonts/BubblegumSans-Regular.ttf
+
