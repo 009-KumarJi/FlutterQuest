@@ -20,8 +20,8 @@
 
 ## Working
 
-- Register Page, Login Page, Home Page <br>
+- Register Page, Login Page, Home Page <br><br>
     ![Working](assets/working/working-1.gif)
-- Profile Page, Feed Page, Bottom Navigation Bar, upload and logout button <br>
+- Profile Page, Feed Page, Bottom Navigation Bar, upload and logout button <br><br>
     ![Working](assets/working/working-2.gif)
  
