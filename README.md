@@ -4,31 +4,31 @@ Welcome to FlutterQuest, a repository showcasing my Flutter development journey 
 
 ## Projects
 
-### [Go Mars](./go_mars)
+### [Go Mars](./GoMars)
 - **Description:** A starting point in my Flutter application development journey.
 - **Learnings:** Widgets, DropDownMenu, Layers/Stack, Columns and Rows, Alignments, Buttons.
 
-### [Tasklize](./tasklize)
+### [Tasklize](./Tasklize)
 - **Description:** A To-Do App utilizing Hive package for database management.
 - **Learnings:** Hive package usage, Stateful widgets, Future, async, await usage.
 
-### [Animornado](./animornado)
+### [Animornado](./Animornado)
 - **Description:** An exploration of basic animations provided by Flutter.
 - **Outcomes:** AnimatedContainer, Tweens & Transform Widget, AnimationControllers.
 
-### [CryptoSense](./crypto_sense)
+### [CryptoSense](./CryptoSense)
 - **Description:** An app fetching crypto-currency information using REST API and Dio package.
 - **Learnings:** Dio, Get_it package, Page Navigation, Web Requests, Futures.
 
-### [Frivia](./frivia)
+### [Frivia](./Frivia)
 - **Description:** A true-false game app utilizing the Open Trivia Database API.
 - **Outcomes:** API usage, ChangeNotifier, Provider, Category feature implementation.
 
-### [PhotuGram](./photu_gram)
+### [PhotuGram](./PhotuGram)
 - **Description:** A photo-sharing app incorporating Firebase services.
 - **Outcomes:** Firebase core, auth, Firestore cloud, Storage, analytics, Bottom Navigation.
 
-### [iBMI](./ibmi)
+### [iBMI](./iBMI)
 - **Description:** A BMI Calculator app using shared_preferences package.
 - **Outcomes:** shared_preferences usage, Cupertino styling schema for Android.
 
