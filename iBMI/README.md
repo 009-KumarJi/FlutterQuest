@@ -18,4 +18,4 @@
 
 ## Working
 
-  ![Working](assets/working-1.gif)
+  ![Working](assets/working.gif)
